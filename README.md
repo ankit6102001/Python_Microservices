@@ -21,5 +21,5 @@ This is a simple Flask microservice that includes JWT authentication for user lo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flask-microservice.git
+git clone https://github.com/ankit6102001/flask-microservice.git
 cd flask-microservice
